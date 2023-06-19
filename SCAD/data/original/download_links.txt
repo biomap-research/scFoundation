@@ -1,0 +1,3 @@
+# gdsc_rma_raw.csv was downloaded from https://ibm.ent.box.com/v/paccmann-pytoda-data/folder/91948853171;
+# plesse rename 'gdsc_rma_raw.csv' as 'gdsc-rma_gene-expression.csv' and put into "SCAD/data/original/" folder
+# gene counts matrix can be downloaded from https://drive.google.com/file/d/15smmSqzVf-6et1EAbPj5LWBdLQ1QkVO9/view?usp=share_link

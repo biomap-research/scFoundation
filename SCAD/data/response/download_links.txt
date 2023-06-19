@@ -1,0 +1,7 @@
+1. GDSC drug continuous and binarized files are downloaded from he following links, which refer to https://github.com/hosseinshn/MOLI/blob/master/preprocessing_scr/annotations.ipynb
+https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources//Data/suppData/TableS1E.xlsx
+https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources///Data/suppData/TableS5C.xlsx
+https://www.cancerrxgene.org/gdsc1000/GDSC1000_WebResources//Data/suppData/TableS4A.xlsx
+
+2. run following command:
+python SCAD/data/processing/preprocessing_GDSC_all_drug_logIC50_binary_intersect.py

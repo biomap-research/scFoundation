@@ -1,0 +1,38 @@
+-- Parameters --
+
+h_dim: 512
+z_dim: 128
+lr: 0.001
+epoch: 10
+lambda1: 2.0
+mbS: 8
+mbT: 8
+-- Split split1 --
+Test loss: 0.8624906539916992	 Test AUC: 0.6962340491752258	 Test APR: 0.7491519152193703
+
+
+-- Split split2 --
+Test loss: 1.1683778762817383	 Test AUC: 0.6299927378358752	 Test APR: 0.6727161612155439
+
+
+-- Split split3 --
+Test loss: 0.9415611624717712	 Test AUC: 0.5810250025936301	 Test APR: 0.6008918389327038
+
+
+-- Split split4 --
+Test loss: 1.2893604040145874	 Test AUC: 0.7180653594771241	 Test APR: 0.7485633225546825
+
+
+-- Split split5 --
+Test loss: 0.8082478642463684	 Test AUC: 0.668233082706767	 Test APR: 0.697150637557348
+
+
+
+
+-- Average Test AUC --
+
+Mean: 0.6587100463577245	Standard Deviation: 0.048747188714065026
+
+-- Average Test Precision Recall --
+
+Mean: 0.6936947750959297	Standard Deviation: 0.055046311551483026

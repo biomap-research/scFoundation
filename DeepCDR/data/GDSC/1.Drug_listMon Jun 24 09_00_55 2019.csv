@@ -1,0 +1,267 @@
+drug_id,Name,Synonyms,Targets,Target pathway,PubCHEM,Sample Size,Count
+1242,(5Z)-7-Oxozeaenol,"5Z-7-Oxozeaenol, LL-Z1640-2",TAK1,"Other, kinases",9863776,945,266
+179,5-Fluorouracil,5-FU,Antimetabolite (DNA & RNA),Other,3385,968,266
+86,A-443654,KIN001-139,"AKT1, AKT2, AKT3",PI3K/MTOR signaling,10172943,425,266
+55,A-770041,KIN001-111,"LCK, FYN","Other, kinases",9549184,426,266
+1001,AICA Ribonucleotide,"AICAR, N1-(b-D-Ribofuranosyl)-5-aminoimidazole-4-carboxamide",AMPK agonist,Metabolism,65110,872,266
+171,AKT inhibitor VIII,Akti-1/2,"AKT1, AKT2, AKT3",PI3K/MTOR signaling,10196499,934,266
+228,AKT inhibitor VIII,"Akti-1/2, KIN001-102","AKT1, AKT2, AKT3",PI3K/MTOR signaling,10196499,979,266
+272,AR-42,"HDAC-42, AR 42, AR42",HDAC1,Chromatin histone acetylation,6918848,965,266
+207,AS601245,,"JNK1, JNK2, JNK2",JNK and p38 signaling,10109823,925,266
+224,AS605240,"KIN001-173, AS-605240",PI3Kgamma,PI3K/MTOR signaling,5289247,975,266
+219,AT-7519,AT7519,"CDK1, CDK2, CDK4, CDK6, CDK9",Cell cycle,11338033,976,266
+29,AZ628,"AZ-628, AZ 628",BRAF,ERK MAPK signaling,11676786,428,266
+156,AZD6482,"AZD 6482, AZD-6482, AK-55409",PI3Kbeta,PI3K/MTOR signaling,44137675,933,266
+1066,AZD6482,"AZD 6482, AZD-6482, AK-55409",PI3Kbeta,PI3K/MTOR signaling,44137675,931,266
+1022,AZD7762,"AZD-7762, AZD 7762","CHEK1, CHEK2",Cell cycle,11152667,881,266
+1059,AZD8055,AZD-8055,"MTORC1, MTORC2",PI3K/MTOR signaling,25262965,870,266
+1032,Afatinib,"BIBW2992, Tovok, Gilotrif","ERBB2, EGFR",EGFR signaling,10184653,881,266
+1377,Afatinib,"BIBW2992, Tovok, Gilotrif","ERBB2, EGFR",EGFR signaling,10184653,944,266
+281,Alectinib,"CH5424802, CH 542802, Alecensa",ALK,RTK signaling,49806720,974,266
+293,Amuvatinib,"MP470, MP 470, MP-470","KIT, PDGFRA, FLT3","Other, kinases",11282283,971,266
+205,Avagacestat,"BMS-708163, BMS 708163","Amyloid beta20, Amyloid beta40",Other,46883536,977,266
+1072,Avagacestat,"BMS-708163, BMS 708163","Amyloid beta20, Amyloid beta40",Other,46883536,957,266
+1021,Axitinib,"AG-13736, Inlyta","PDGFR, KIT, VEGFR",RTK signaling,6450551,877,266
+178,BAY-61-3606,"Syk Inhibitor, BAY-613606",SYK,"Other, kinases",10200390,925,266
+60,BI-2536,,"PLK1, PLK2, PLK3",Cell cycle,11364421,424,266
+279,BIX02189,BIX 02189,"MEK5, ERK5",ERK MAPK signaling,46931012,975,266
+203,BMS-345541,"BMS345541, IKK Inhibitor 3","IKK1, IKK2","Other, kinases",9813758,980,266
+63,BMS-509744,"KIN001-127, ITK inhibitor",ITK,Other,20635522,426,266
+62,BMS-536924,BMS 536924,"IGF1R, IR",IGFR signaling,10390396,425,266
+1091,BMS-536924,BMS 536924,"IGF1R, IR",Unclassified,10390396,956,266
+184,BMS-754807,"BMS754807, BMS 754807","IGF1R, IR",IGFR signaling,24785538,924,266
+222,BX-912,,PDK1 (PDPK1),PI3K/MTOR signaling,11754511,978,266
+1037,BX795,BX-795,"TBK1, PDK1 (PDPK1), IKK, AURKB, AURKC",Other,10077147,878,266
+274,Belinostat,"PXD101, PXD-101",HDAC1,Chromatin histone acetylation,6918638,948,266
+186,Bexarotene,"LG-100069, Targretin, Targret, Targrexin, Targretyn, Bexarotenum",Retinioic X receptor (RXR) agonist,Other,82146,917,266
+150,Bicalutamide,"ICI-176334, Casodex, Cosudex, ICI 176334",AR,Hormone-related,2375,927,266
+1502,Bicalutamide,"ICI-176334, Casodex, Cosudex, ICI 176334",AR,Hormone-related,2375,903,266
+190,Bleomycin,,dsDNA break induction,DNA replication,several,920,266
+1378,Bleomycin,,dsDNA break induction,DNA replication,5460769,965,266
+104,Bortezomib,"PS-341, LDP-341, Velcade",Proteasome,Protein stability and degradation,387447,426,266
+1019,Bosutinib,"SKI-606, Bosulif","SRC, ABL, TEC","Other, kinases",5328940,883,266
+197,Bryostatin 1,Bryostatin,PKC,"Other, kinases",5280757,923,266
+276,CAY10603,,"HDAC1, HDAC6",Chromatin histone acetylation,24951314,968,266
+1170,CCT-018159,"CCT018159, CCT 018159",HSP90,Protein stability and degradation,5327091,929,266
+1067,CCT007093,,PPM1D,Other,2314623,952,266
+54,CGP-082996,"CINK4, KIN001-021",CDK4,Cell cycle,24825971,425,266
+53,CGP-60474,"KIN001-019, CGP60474, CGP 60474","CDK1,CDK2,CDK5,CDK7,CDK9, PKC",Cell cycle,644215,425,266
+154,CHIR-99021,"CT 99021, CHIR99021, CHIR 99021","GSK3A, GSK3B",WNT signaling,9956119,935,266
+1241,CHIR-99021,"CT 99021, CHIR99021, CHIR 99021","GSK3A, GSK3B",WNT signaling,9956119,944,266
+1015,CI-1040,"CI 1040, PD-18435, PD-184352, 212631-79-3","MEK1, MEK2",ERK MAPK signaling,6918454,871,266
+64,CMK,KIN001-128,RSK2,ERK MAPK signaling,16663089,425,266
+152,CP466722,"CP-466722, CP 466722, 1080622-86-1",ATM,Genome integrity,44551660,980,266
+255,CP724714,CP-724714,ERBB2,EGFR signaling,9874913,977,266
+273,CUDC-101,CUDC 101,"HDAC1-10, EGFR, ERBB2",Other,24756910,957,266
+300,CX-5461,"CX5461, CX 5461",RNA Polymerase 1,Other,25257557,971,266
+249,Cabozantinib,"BMS-907351, XL-184, Cometriq","VEGFR, MET, RET, KIT, FLT1, FLT3, FLT4, TIE2,AXL","Other, kinases",25102847,975,266
+1114,Cetuximab,"Erbitux, IMC-C225, C225, IMC-225, L01XC06",EGFR,EGFR signaling,85668777,899,266
+1005,Cisplatin,"cis-Diammineplatinum(II) dichloride, Platinol, CIS-DDP",DNA crosslinker,DNA replication,84691,882,266
+37,Crizotinib,"Xalkori, PF2341066, PF-2341066, PF 2341066","MET, ALK, ROS1",RTK signaling,11626560,433,266
+17,Cyclopamine,,SMO,Other,several,421,266
+1006,Cytarabine,"Ara-Cytidine, Arabinosyl Cytosine, U-19920",Antimetabolite,DNA replication,6253,878,266
+165,DMOG,Dimethyloxalylglcine,HIF-PH,Metabolism,560326,934,266
+1373,Dabrafenib,"GSK2118436, Tafinlar",BRAF,ERK MAPK signaling,44462760,899,266
+200,Dacinostat,"NVP-LAQ824, LAQ824",HDAC1,Chromatin histone acetylation,6445533,929,266
+1057,Dactolisib,"NVP-BEZ235, BEZ235","PI3K (Class 1), MTORC1, MTORC2",PI3K/MTOR signaling,11977753,871,266
+1248,Daporinad,"APO866,  FK866, FK866",NAMPT,Metabolism,6914657,930,266
+51,Dasatinib,"BMS-354825-03, BMS-354825, Sprycel","ABL, SRC, Ephrins, PDGFR, KIT",Other,3062316,422,266
+1007,Docetaxel,"RP-56976, Taxotere",Microtubule stabiliser,Mitosis,148124,882,266
+1042,Doramapimod,"BIRB-796, BIRB 796","p38, JNK2",JNK and p38 signaling,156422,867,266
+133,Doxorubicin,"Doxil, Rubex, Adriamycin, Adriablastin, Doxorubicine",Anthracycline,DNA replication,31703,928,266
+1069,EHT-1864,EHT 1864,"RAC1, RAC2, RAC3",Cytoskeleton,9938202,955,266
+1031,Elesclomol,STA-4783,HSP90,Protein stability and degradation,300471,881,266
+172,Embelin,"Emberine, Embelic acid",XIAP,Apoptosis regulation,3218,929,266
+88,Entinostat,MS-275,"HDAC1, HDAC3",Chromatin histone acetylation,4261,427,266
+229,Enzastaurin,LY317615,PKCB,"Other, kinases",176167,978,266
+201,Epothilone B,"Patupilone, EpoB, EPO906, GNF-PF-193",Microtubule stabiliser,Mitosis,448013,928,266
+1,Erlotinib,"Tarceva, RG-1415, CP-358774, OSI-774, Ro-508231, R-1415",EGFR,EGFR signaling,176870,392,266
+134,Etoposide,"Etopophos, Vepesid, Eposin, VP-16",TOP2,DNA replication,36462,936,266
+173,FH535,,"PPARgamma, PPARdelta",WNT signaling,3463933,926,266
+231,FMK,KIN001-242,RSK,"Other, kinases",none,836,266
+263,FR-180204,"FR 180204, FR180204, ERK Inhibitor II","ERK1, ERK2",ERK MAPK signaling,11493598,975,266
+166,FTI-277,,Farnesyl-transferase (FNTA),Other,3005532,937,266
+306,Fedratinib,"TG101348, TG-101348, SAR302503, SAR-302503",JAK2,"Other, kinases",16722836,976,266
+308,Foretinib,"GSK1363089, XL-880, EXEL-2880, GSK089","MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR",RTK signaling,42642645,972,266
+52,GNF-2,KIN001-013,BCR-ABL,ABL signaling,5311510,423,266
+226,GSK1070916,GSK-1070916,"AURKA, AURKC",Mitosis,46885626,950,266
+202,GSK1904529A,"GSK-1904529A, GSK 1904529A","IGF1R, IR",IGFR signaling,25124816,928,266
+127,GSK269962A,GSK 269962A,"ROCK1, ROCK2",Cytoskeleton,16095342,429,266
+1192,GSK269962A,GSK 269962A,"ROCK1, ROCK2",Cytoskeleton,16095342,958,266
+91,GSK319347A,"KIN001-135, IKK-3 inhibitor",IKK,Other,11626927,428,266
+230,GSK429286A,,"ROCK1, ROCK2",Cytoskeleton,11373846,980,266
+177,GSK650394,"GSK-650394, GSK 650394","SGK2, SGK3",Other,25022668,920,266
+326,GSK690693,"GSK 690693, GSK-690693","AKT1, AKT2, AKT3",PI3K/MTOR signaling,16725726,975,266
+193,GW-2580,"GX2580, CFMS receptor tyrosine kinase inhibitor",CSF1R,RTK signaling,11617559,977,266
+1023,GW441756,GW 441756,NTRK1,RTK signaling,9943465,879,266
+87,GW843682X,GW843682X (AN-13),PLK1,Cell cycle,9826308,426,266
+1010,Gefitinib,"ZD-1839, Iressa",EGFR,EGFR signaling,123631,878,266
+135,Gemcitabine,"Gemzar, LY-188011",Pyrimidine antimetabolite,DNA replication,60750,923,266
+225,Genentech Cpd 10,,"AURKA, AURKB",Mitosis,none,980,266
+1142,HG-5-113-01,,"LOK, LTK, TRCB, ABL(T315I)",Other,none,512,266
+1143,HG-5-88-01,,"EGFR, ADCK4","Other, kinases",none,512,266
+159,HG6-64-1,KIN001-206,BRAF,ERK MAPK signaling,53302361,933,266
+275,I-BET-762,GSK525762A,"BRD2, BRD3, BRD4",Chromatin other,46943432,972,266
+1266,ICL1100013,,N-myristoyltransferase 1/2,Other,,945,266
+1230,IOX2,"IOX-2, IOX 2, AK176060",EGLN1,Other,54685215,959,266
+176,IPA-3,IPA 3,PAK1,Cytoskeleton,521106,927,266
+238,Idelalisib,"CAL-101, Zydelig",PI3Kdelta,PI3K/MTOR signaling,11625818,979,266
+34,Imatinib,"Gleevec, STI-571","ABL, KIT, PDGFR",RTK signaling,5291,435,266
+208,Ispinesib Mesylate,SB-715992,KSP,Mitosis,6450816,979,266
+1043,JNK Inhibitor VIII,,JNK,JNK and p38 signaling,11624601,876,266
+157,JNK-9L,"KIN001-204, JNK inhibitor 9l","JNK2, JNK3",JNK and p38 signaling,25222038,937,266
+163,JQ1,"JQ-1, (+)-JQ-1","BRD2, BRD3, BRD4, BRDT",Chromatin other,46907787,937,266
+1218,JQ1,"JQ-1, (+)-JQ-1","BRD2, BRD3, BRD4, BRDT",Chromatin other,46907787,944,266
+164,JQ12,,"HDAC1, HDAC2",Chromatin histone acetylation,none,931,266
+256,JW-7-24-1,,LCK,"Other, kinases",none,977,266
+83,JW-7-52-1,NA,MTOR,PI3K/MTOR signaling,49836027,410,266
+286,KIN001-236,,Angiopoietin-1 receptor,Other,none,975,266
+287,KIN001-244,PDK1 inhibitor 7,PDK1 (PDPK1),"Other, kinases",56965967,974,266
+290,KIN001-260,"Bayer IKKb inhibitor, ACHP",IKKB,Other,10451420,974,266
+291,KIN001-266,,MAP3K8,"Other, kinases",44143370,975,266
+345,KIN001-270,"CDK9 inhibitor, CDK9-IN-1",CDK9,Cell cycle,66577006,975,266
+1030,KU-55933,KU55933,ATM,Genome integrity,5278396,877,266
+192,LFM-A13,DDE-28,BTK,"Other, kinases",54676905,927,266
+119,Lapatinib,"Tykerb, Tyverb","ERBB2, EGFR",EGFR signaling,208908,421,266
+1020,Lenalidomide,"CDC-501, CC-5013, Revlimid",CRBN,Protein stability and degradation,216326,882,266
+1024,Lestaurtinib,"CEP-701, SP-924, SPM-924, A-154475, KT-555","FLT3, JAK2, NTRK1, NTRK2, NTRK3","Other, kinases",126565,881,266
+277,Linifanib,"ABT-869, ABT 869","VEGFR1, VEGFR2, VEGFR3, CSF1R, FLT3, KIT",RTK signaling,11485656,977,266
+185,Linsitinib,"OSI-906, ASP-7487",IGF1R,IGFR signaling,11640390,924,266
+194,Luminespib,"AUY922, VER-52296,NVP-AUY922,  AUY",HSP90,Protein stability and degradation,10096043,918,266
+9,MG-132,"LLL cpd, MG 132, MG132","Proteasome, CAPN1",Protein stability and degradation,462382,426,266
+1053,MK-2206,"MK 2206, MK2206","AKT1, AKT2",PI3K/MTOR signaling,46930998,854,266
+294,MPS-1-IN-1,,MPS1,Mitosis,25195352,973,266
+292,Masitinib,"AB1010, Masivet","KIT, PDGFRA, PDGFRB","Other, kinases",10074640,976,266
+1008,Methotrexate,"Abitrexate, Amethopterin, Rheumatrex, Trexall, Folex",Antimetabolite,DNA replication,126941,881,266
+153,Midostaurin,"PKC412, benzoylstaurosporine, CGP-41251","PKC, PPK, FLT1, c-FGR, others",Other,several,938,266
+136,Mitomycin-C,"Mytozytrex, NSC-26980, MMC, Mitosol, Mitozytrex",DNA crosslinker,DNA replication,5746,929,266
+1029,Motesanib,"AMG-706, AMG 706, AMG706","VEGFR, RET, KIT, PDGFR",RTK signaling,11667893,877,266
+260,NG-25,NG25,"TAK1, MAP4K2","Other, kinases",53340664,974,266
+257,NPK76-II-72-1,,PLK3,Cell cycle,none,975,266
+269,NSC-207895,"XI-006, NSC207895",MDM4,p53 pathway,42640,968,266
+147,NSC-87877,NSC 87877,"SHP-1 (PTPN6), SHP-2 (PTPN11)",Other,5459322,933,266
+1038,NU7441,"KU-57788, NU-7432, NU-7741",DNAPK,Genome integrity,11327430,875,266
+295,NVP-BHG712,BHG712,EPHB4,Other,16747388,975,266
+35,NVP-TAE684,"NVP-TAE 684, TAE684, TAE-684",ALK,RTK signaling,16038120,433,266
+1011,Navitoclax,"ABT-263, ABT263, ABT 263","BCL2, BCL-XL, BCL-W",Apoptosis regulation,24978538,878,266
+1013,Nilotinib,"Tasigna, AMN 107",ABL,ABL signaling,644241,833,266
+1047,Nutlin-3a (-),,MDM2,p53 pathway,11433190,878,266
+299,OSI-027,A-1065-5,"MTORC1, MTORC2",PI3K/MTOR signaling,44224160,971,266
+298,OSI-930,OSI 930 OSI930,KIT,RTK signaling,9868037,976,266
+167,OSU-03012,"AR-12, OSU 03012, OSU03012, PDK1 inhibitor AR-12",PDK1 (PDPK1),"Other, kinases",10027278,927,266
+182,Obatoclax Mesylate,"GX15-070MS, Obatoclax, GX15-070","BCL2, BCL-XL, BCL-W, MCL1",Apoptosis regulation,11404337,920,266
+1017,Olaparib,"AZD2281, KU0059436,  Lynparza","PARP1, PARP2",Genome integrity,23725625,882,266
+1495,Olaparib,"AZD2281, KU0059436,  Lynparza","PARP1, PARP2",Genome integrity,23725625,934,266
+283,Omipalisib,"GSK2126458, GSK-2126458, EX-8678, GSK458","PI3K (class 1), MTORC1, MTORC2",PI3K/MTOR signaling,25167777,977,266
+175,PAC-1,GTPL5238,"Procaspase-3, Procaspase-7",Apoptosis regulation,6753378,916,266
+1060,PD0325901,"PD-0325901, PD 0325901","MEK1, MEK2",ERK MAPK signaling,9826528,870,266
+1049,PD173074,"PD-173074, PD 173074","FGFR1, FGFR3",RTK signaling,1401,878,266
+1129,PF-4708671,"PF 4708671, PF4708671",S6K1,PI3K/MTOR signaling,51371303,939,266
+158,PF-562271,PF-00562271,"FAK, FAK2",Cytoskeleton,11713159,918,266
+1219,PFI-1,,BRD4,Chromatin other,71271629,961,266
+1530,PFI-3,BDF00016096,"SMARCA2, SMARCA4, PB1",Other,78243717,874,266
+6,PHA-665752,"PHA665752, PHA 665752",MET,RTK signaling,10461815,434,266
+301,PHA-793887,"PHA793887, PHA 793887","CDK2, CDK7, CDK5",Cell cycle,46191454,977,266
+302,PI-103,"PI-103, PI103, PI 103","PI3Kalpha, DAPK3, CLK4, PIM3, HIPK2",PI3K/MTOR signaling,9884685,966,266
+303,PIK-93,"PIK 93, PIK93",PI3Kgamma,PI3K/MTOR signaling,6852167,975,266
+1036,PLX-4720,"PLX4720, PLX 4720",BRAF,ERK MAPK signaling,24180719,877,266
+1371,PLX-4720,"PLX4720, PLX 4720",BRAF,ERK MAPK signaling,24180719,947,266
+11,Paclitaxel,"BMS-181339-01, Taxol, Onxol, Paxene, Praxel, Abraxane",Microtubule stabiliser,Mitosis,36314,426,266
+1054,Palbociclib,"PD0332991, PD-0332991, PF-00080665-73","CDK4, CDK6",Cell cycle,5330286,854,266
+89,Parthenolide,,HDAC1,Chromatin histone acetylation,7251185,428,266
+199,Pazopanib,Votrient,"CSF1R, KIT,  PDGFRA, PDGFRB",RTK signaling,10113978,925,266
+282,Pelitinib,"EKB-569, EKB 569",EGFR,EGFR signaling,6445562,976,266
+1529,Pevonedistat,"MLN4924, MLN 4924, MLN-4924",NAE,Other,16720766,722,266
+196,Phenformin,DBI,Biguanide agent,Other,8249,966,266
+1058,Pictilisib,"GDC-0941, GDC0941, RG-7621",PI3K (class 1),PI3K/MTOR signaling,17755052,870,266
+1527,Pictilisib,"GDC-0941, GDC0941, RG-7621",PI3K (class 1),PI3K/MTOR signaling,17755052,914,266
+1243,Piperlongumine,Piplartine,Induces reactive oxygen species,Other,637858,957,266
+155,Ponatinib,"AP24534, AP-24534, KIN001-192, Iclusig","ABL, PDGFRA, VEGFR2, FGFR1, SRC, TIE2, FLT3",RTK signaling,24826799,937,266
+71,Pyrimethamine,"Daraprim, Chloridine",Dihydrofolate reductase (DHFR),Other,4993,428,266
+1166,QL-VIII-58,,"MTOR, ATR",Other,none,515,266
+331,QL-X-138,,BTK,"Other, kinases",none,964,266
+329,QL-XI-92,,DDR1,Other,none,977,266
+235,QL-XII-47,,"BTK, BMX","Other, kinases",none,977,266
+1203,QL-XII-61,,"BMX, BTK","Other, kinases",none,490,266
+151,QS11,944328-88-5,ARFGAP1,Other,4263900,928,266
+254,Quizartinib,"AC220, AC 220, AC-220, Asp-2689",FLT3,RTK signaling,24889392,976,266
+1052,RO-3306,,CDK1,Cell cycle,44450571,878,266
+3,Rapamycin,"AY-22989, Sirolimus, WY-090217, Torisel, Rapamune",MTORC1,PI3K/MTOR signaling,5384616,388,266
+1014,Refametinib,"RDEA119, BAY-86-9766, BAY 869766","MEK1, MEK2",ERK MAPK signaling,44182295,869,266
+1526,Refametinib,"RDEA119, BAY-86-9766, BAY 869766","MEK1, MEK2",ERK MAPK signaling,44182295,905,266
+1175,Rucaparib,"PF-01367338, AG-014699, AG-14447, AG-14699","PARP1, PARP2",Genome integrity,9931953,953,266
+206,Ruxolitinib,"INCB-18424, Ruxolitinib Phosphate, Jakafi","JAK1, JAK2","Other, kinases",25126798,979,266
+41,S-Trityl-L-cysteine,"NSC 83265, Tritylcysteine",KIF11,Mitosis,76044,424,266
+1025,SB216763,"SB-216763, SB 216763","GSK3A, GSK3B",WNT signaling,176158,778,266
+1194,SB505124,"SB 505124, SB505124","ALK4, ALK5",RTK signaling,9858940,958,266
+304,SB52334,"SB-52334, SB 52334",ALK5,RTK signaling,9967941,974,266
+1061,SB590885,SB-590885,BRAF,ERK MAPK signaling,11316960,858,266
+1264,SGC0946,,DOT1L,Chromatin histone methylation,56962337,938,266
+1039,SL0101,"SL-0101, SL 0101-1","RSK, AURKB, PIM1, PIM3",Other,10459196,863,266
+1494,SN-38,"7-Ethyl-10-Hydroxy-Camptothecin, SN 38",TOP1,DNA replication,104842,989,266
+328,SNX-2112,SNX 2112,HSP90,Protein stability and degradation,24772860,967,266
+258,STF-62247,STF62247,Autophagy inducer,Other,704473,972,266
+111,Salubrinal,EIF-2alpha Inhibitor,EIF2A,Other,5717801,423,266
+38,Saracatinib,"AZD0530, AZD-0530, AZ-10353926","ABL, SRC",RTK signaling,10302451,435,266
+110,Seliciclib,"Roscovitine, CYC-202, AL-39256","CDK2, CDK7, CDK9",Cell cycle,160355,421,266
+341,Selisistat,"EX-527, EX 527",SIRT1,Chromatin histone acetylation,5113032,971,266
+1062,Selumetinib,"AZD6244, AZD-6244, ARRY-886","MEK1, MEK2",ERK MAPK signaling,10127622,852,266
+1498,Selumetinib,"AZD6244, AZD-6244, ARRY-886","MEK1, MEK2",ERK MAPK signaling,10127622,950,266
+268,Sepantronium bromide,"YM155, YM-155, YM 155",BIRC5,Apoptosis regulation,11178236,942,266
+1133,Serdemetan,JNJ-26854165,MDM2,p53 pathway,11609586,950,266
+170,Shikonin,Anchusin,not defined,Other,5208,934,266
+30,Sorafenib,"Nexavar, 284461-73-0, BAY 43-9006","PDGFR, KIT, VEGFR, RAF",RTK signaling,216239,430,266
+5,Sunitinib,"Sutent, Sunitinib Malate, SU-11248","PDGFR, KIT, VEGFR, FLT3, RET, CSF1R",RTK signaling,5329102,425,266
+333,T0901317,"TO-901317, TO901317","LXR, FXR",Other,447912,969,266
+221,TAK-715,"KIN001-201, TAK 715","p38alpha, p38beta",JNK and p38 signaling,9952773,980,266
+94,TGX221,"TGX-221, Tgx 221",PI3Kbeta,PI3K/MTOR signaling,9907093,426,266
+346,THZ-2-102-1,,CDK7,Cell cycle,none,957,266
+344,THZ-2-49,,CDK9,Cell cycle,none,972,266
+261,TL-1-85,,TAK,"Other, kinases",none,975,266
+211,TL-2-105,,not defined,Unclassified,none,980,266
+305,TPCA-1,,IKK2,"Other, kinases",9903786,975,266
+1149,TW 37,"TW37, TW-37","BCL2, BCL-XL, MCL1",Apoptosis regulation,11455910,952,266
+1259,Talazoparib,"BMN-673, BMN 973","PARP1, PARP2",Genome integrity,44819241,944,266
+1199,Tamoxifen,"Nolvadex, Soltamox, Zynoplex, ICI-46474, Kessar",ESR1,Hormone-related,2733526,958,266
+1026,Tanespimycin,"17-AAG, BMS-722782",HSP90,Protein stability and degradation,6505803,879,266
+1375,Temozolomide,"Temodar, Temodal, M-39831, SCH 52365",DNA alkylating agent,DNA replication,5394,938,266
+1016,Temsirolimus,"CCI-779, Torisel",MTOR,PI3K/MTOR signaling,6918289,868,266
+180,Thapsigargin,Octanoic acid,SERCA,Other,446378,911,266
+204,Tipifarnib,Zarnestra,Farnesyl-transferase (FNTA),Other,159324,925,266
+312,Tivozanib,"AV-951, AV 951, KRN-951, KIL8951, ASP-4130","VEGFR1, VEGFR2, VEGFR3",RTK signaling,9911830,975,266
+32,Tozasertib,"MK 0457,MK-0457,MK-045, VX-680 VX 680 VX-68","AURKA, AURKB, AURKC, others",Mitosis,5494449,420,266
+1372,Trametinib,"GSK1120212, Mekinist","MEK1, MEK2",ERK MAPK signaling,11707110,925,266
+1009,Tretinoin,"ATRA, Vesanoid, Renova, Atralin, Tretin-X, Avita",Retinoic acid,Other,444795,873,266
+265,Tubastatin A,,"HDAC1, HDAC6, HDAC8",Chromatin histone acetylation,53394750,971,266
+245,UNC0638,"UNC-0638, UNC 0683",G9a and GLP methyltransferases,Chromatin histone methylation,46224516,969,266
+1236,UNC0638,"UNC-0638, UNC 0683",G9a and GLP methyltransferases,Chromatin histone methylation,46224516,961,266
+1262,UNC1215,UNC-1215,L3MBTL3,Chromatin other,57339144,939,266
+271,VNLG/124,HDAC inhibitor XV,"HDAC,RAR",Chromatin histone acetylation,24894414,971,266
+262,VX-11e,"VX11e, VX11e",ERK2,ERK MAPK signaling,11634725,974,266
+1028,VX-702,"VX702, VX 702",p38,JNK and p38 signaling,10341154,879,266
+1018,Veliparib,"ABT-888, ABT888, ABT 888","PARP1, PARP2",Genome integrity,11960529,882,266
+1004,Vinblastine,Velban,Microtubule destabiliser,Mitosis,6710780,882,266
+140,Vinorelbine,"vinorelbine tartrate, Navelbine, Exelbine",Microtubule destabiliser,Mitosis,5311497,938,266
+1033,Vismodegib,"GDC0449, Erivedge",SMO,Other,24776445,882,266
+1012,Vorinostat,"Zolinza, SAHA, suberanilohydroxamic acid, suberoylanilide hydroxamic acid, MK-0683","HDAC inhibitor Class I, IIa, IIb, IV",Chromatin histone acetylation,5311,883,266
+56,WH-4-023,KIN001-112,"SRC, LCK","Other, kinases",11844351,423,266
+288,WHI-P97,"AC1L1GQE, KIN001-055",JAK3,"Other, kinases",3796,975,266
+59,WZ-1-84,KIN001-123,BMX,"Other, kinases",49821040,425,266
+252,WZ3105,,"SRC, ROCK2, NTRK2, FLT3, IRAK1, others",Other,none,976,266
+1046,Wee1 Inhibitor,"681640, Wee1 Inhibitor","WEE1, CHEK1",Cell cycle,10384072,787,266
+1268,XAV939,"NVP-XAV939, XAV-939, XAV 939","TNKS1, TNKS2",WNT signaling,2726824,947,266
+1158,XMD11-85h,,"BRSK2, FLT4, MARK4, PRKCD, RET, SRPK1",Other,none,513,266
+330,XMD13-2,,RIPK1,Apoptosis regulation,none,976,266
+253,XMD14-99,,"ALK, CDK7, LTK, others",Other,none,977,266
+332,XMD15-27,,CAMK2,"Other, kinases",none,977,266
+106,XMD8-85,ERK5-IN-1,"ERK5, BET",Other,46844147,422,266
+1164,XMD8-92,XMD 8-92,MAPK7,"Other, kinases",46843772,514,266
+309,Y-39983,,ROCK,Cytoskeleton,9810884,975,266
+1239,YK-4-279,YK 4-279,RNA helicase A,Other,44632017,816,266
+310,YM201636,"YM-201636, YM 201636",PIKFYVE,Other,9956222,975,266
+45,Z-LLNle-CHO,"Z-L-Norleucine-CHO, Gamma-Secretase Inhibitor 1",gamma-secretase,Other,16760646,425,266
+1161,ZG-10,,JNK1,JNK and p38 signaling,none,513,266
+1050,ZM447439,"ZM-447439, ZM 447439","AURKA, AURKB",Mitosis,9914412,827,266
+223,ZSTK474,"KIN001-167, ZSTK-474, ZSTK 474",PI3K (class 1),PI3K/MTOR signaling,11647372,979,266
+266,Zibotentan,"ZD4054, ZD-4054",Endothelin-1 receptor (EDNRA),Other,9910224,974,266
+1261,rTRAIL,,TRAIL receptor agonist,Apoptosis regulation,none,949,266
