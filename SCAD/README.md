@@ -1,5 +1,5 @@
 # Prepare Data
-We processed the embeddings of all data used in the paper and saved them. You need to download the gene expression data for reproducing the baseline results from the link provided in `download_links.txt`. Then you need to used the `split_data_SCAD_5fold_norm.py` to generate the split data for 5-fold cross validation. 
+We processed the embeddings of all data used in the paper and saved them. You need to download the gene expression data for reproducing the baseline results from Figshare: https://doi.org/10.6084/m9.figshare.24049200 . Then you need to used the `split_data_SCAD_5fold_norm.py` to generate the split data for 5-fold cross validation. 
 ```
 cd /data/split_norm/
 ## with outembedding

@@ -1,6 +1,6 @@
 set -xe
 
-device_id=4 # which device to run the program, for multi-gpus, set params like device_id=0,2,5,7. [Note that] the device index in python refers to 0,1,2,3 respectively.
+device_id=0 # which device to run the program, for multi-gpus, set params like device_id=0,2,5,7. [Note that] the device index in python refers to 0,1,2,3 respectively.
 
 
 # params
@@ -22,7 +22,7 @@ lr=0.0005 #1e-3
 model_type=maeautobin
 bin_set=autobin_resolution_append #autobin_resolution, bin_2, bin_3, no_bin
 finetune_method=frozen # [None,finetune, 'frozen', 'finetune_lr_1'])
-singlecell_model_path=./0.1B/0.1B-trans-pGAU-shuffle5-autobin100-mask0.3-bts1024-0226-bin100-k8s-lr1e-4-resume/models/model_step=85999.ckpt
+singlecell_model_path=../model/models/models.ckpt
 
 
 workdir=./

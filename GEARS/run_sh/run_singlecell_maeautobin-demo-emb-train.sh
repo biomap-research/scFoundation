@@ -5,14 +5,14 @@ device_id=0 # which device to run the program, for multi-gpus, set params like d
 
 # params
 data_dir=./data/
-data_name=gse90063_k562_ko_tf20_37160_19264
+data_name=demo
 split=simulation
 result_dir=./results
 seed=1
-epochs=15
-batch_size=6
-accumulation_steps=5
-test_batch_size=6
+epochs=1
+batch_size=2
+accumulation_steps=1
+test_batch_size=2
 hidden_size=512
 train_gene_set_size=0.75
 mode=v1
@@ -21,10 +21,8 @@ lr=0.0002 #1e-3
 
 model_type=maeautobin
 bin_set=autobin_resolution_append #autobin_resolution, bin_2, bin_3, no_bin
-finetune_method=frozen # [None,finetune, 'frozen', 'finetune_lr_1'])
+finetune_method='frozen' # [None,finetune, 'frozen', 'finetune_lr_1'])
 singlecell_model_path=../model/models/models.ckpt
-
-
 workdir=./
 cd $workdir
 
@@ -34,7 +32,7 @@ result_dir=${workdir}/results/${data_name}/${train_gene_set_size}/50m-0.1B_split
 
 mkdir -p ${result_dir}
 
-CUDA_VISIBLE_DEVICES=${device_id} /usr/bin/python -u train.py \
+CUDA_VISIBLE_DEVICES=${device_id} python -u train.py \
     --data_dir=${data_dir} \
     --data_name=${data_name} \
     --seed=${seed} \

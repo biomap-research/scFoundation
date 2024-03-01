@@ -1,4 +1,4 @@
-**Prerequisites**: Ensure you have obtained the API token for scFoundation/xTrimoGene.
+**Prerequisites**: Ensure you have obtained the API token for scFoundation/xTrimoGene from https://api.biomap.com/xTrimoGene/apply
 
 ### How to Use the scFoundation/xTrimoGene API:
 #### Overview
@@ -54,6 +54,11 @@ scipy
   mkdir -p ./demo/${taskname}/${tgthighres}
   python ./client.py --input_type singlecell --output_type cell --pool_type all --pre_normalized F --version 0.2 --tgthighres $tgthighres --data_path ./data/baron_human_samp_19264_fromsaver_demo.csv --save_path ./demo/${taskname}/${tgthighres}/
   ```
+  
+**Troubleshooting Tips:**
+1. Ensure your data is formatted according to our gene symbol list.
+2. If errors persist, try reducing the number of cells processed in a single API call.
+  
 
 #### 3. Adjusting Arguments:
 For a quick start, simply modify the `--data_path` to point to your data.

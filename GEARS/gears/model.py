@@ -108,24 +108,13 @@ class GEARS_Model(torch.nn.Module):
         
         #if self.cell_fitness_pred:
         self.cell_fitness_mlp = MLP([self.num_genes, hidden_size*2, hidden_size, 1], last_layer_act='linear')
-
-        # if args['model_type'] == 'mix60w_performergau_full_maskall':
-        #     from modules.encoders import PerformerLikeEncoder
-        #     self.singlecell_model = PerformerLikeEncoder(args, hidden_size=hidden_size)
-        #     self.pretrained = True
-        #     print('Single cell model load success!')
-        # elif args['model_type'] == 'mae':
-        #     from modules.encoders import MAEencoder
-        #     self.singlecell_model = MAEencoder(args, hidden_size=hidden_size)
-        #     self.pretrained = True
-        #     print('Single cell model load success! model type: MAE')
-        # elif args['model_type'] == 'maeautobin':
-        #     from modules.encoders import MAEAutobinencoder
-        #     self.singlecell_model = MAEAutobinencoder(args, hidden_size=hidden_size)
-        #     self.pretrained = True
-        #     print('Single cell model load success! model type: MAEAutobin')
-        if args['model_type'] == 'API':
-            # It will be implemented in the future
+        
+        if args['model_type'] == 'maeautobin':
+            from modules.encoders import MAEAutobinencoder
+            self.singlecell_model = MAEAutobinencoder(args, hidden_size=hidden_size)
+            self.pretrained = True
+            print('Single cell model load success! model type: MAEAutobin')
+        elif args['model_type'] == 'API':
             def API(x):
                 return torch.rand(x.shape[0], x.shape[1]-1,hidden_size).to(x.device)
             self.singlecell_model = API
