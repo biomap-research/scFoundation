@@ -1,3 +1,8 @@
+
+# News
+**Please note that the old platform (https://api.biomap.com/xTrimoGene/apply) was officially discontinued on April 30th, 2024. We kindly request you to migrate to our new platform at https://aigp.biomap.com/. You can follow the tutorial on the platform now. This upgrade aims to provide you with both online inference service and command-line interface(CLI) tools.**
+
+# Old version
 **Prerequisites**: Ensure you have obtained the API token for scFoundation/xTrimoGene from https://api.biomap.com/xTrimoGene/apply
 
 ### How to Use the scFoundation/xTrimoGene API:
