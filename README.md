@@ -3,12 +3,7 @@
 We developed a large-scale pretrained model scFoundation with 100M parameters. scFoundation was based on the **xTrimoGene** architecture and trained on over 50 million human single-cell transcriptomics data, which contain high-throughput observations on the complex molecular features in all known types of cells. scFoundation is a large-scale model in terms of the size of trainable parameters, dimensionality of genes and the number of cells used in the pre-training. Experiments showed that scFoundation can serve as a foundation model for single-cell transcriptomics and achieve state-of-the-art performances in a diverse array of downstream tasks. More information can be found at https://www.biorxiv.org/content/10.1101/2023.05.29.542705 .
 
 ## API
-We are excited to announce the availability of our API for cell and gene embedding inference. To get started:
-
-1. **Register and Agreement Acknowledgment**: Visit https://api.biomap.com/xTrimoGene/apply to register account, sign the Terms and apply for your API token.
-2. **Review Process**: Upon receiving your application, our team will evaluate your application.
-3. **Token Issuance**: If your application is approved, you will receive an email containing your API token along with guidelines and restrictions on our API usage.
-4. **Getting Started with the API**: For instructions on using the API, navigate to the `apiexample` directory in our repository.
+**Update**: Please note that the old [platform](https://api.biomap.com/xTrimoGene/apply) was officially discontinued on April 30th, 2024. We kindly request you to migrate to our new platform at https://aigp.biomap.com/. You can follow the tutorial on the platform now. This upgrade aims to provide you with both online inference service and command-line interface(CLI) tools.
 
 ## Model weight and code
 We now provide model pretrained weight and code with documentation of obtaining the cell embeddings and fine-tuning/integrating our model with other models. Please find the further instructions in the `model` folder.
