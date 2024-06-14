@@ -7,6 +7,8 @@ We developed a large-scale pretrained model scFoundation with 100M parameters. s
 ## API
 **Update**: Please note that the old [platform](https://api.biomap.com/xTrimoGene/apply) was officially discontinued on April 30th, 2024. We kindly request you to migrate to our new platform at https://aigp.biomap.com/. You can follow the tutorial on the platform now. This upgrade aims to provide you with both online inference service and command-line interface(CLI) tools.
 
+**For any API issues, please get in touch with aigp-support@biomap.com**
+
 ## Model weight and code
 We now provide model pretrained weight and code with documentation of obtaining the cell embeddings and fine-tuning/integrating our model with other models. Please find the further instructions in the `model` folder.
 
