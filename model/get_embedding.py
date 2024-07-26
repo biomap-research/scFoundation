@@ -78,7 +78,10 @@ def main():
     elif args.data_path[-4:]=='h5ad':
         gexpr_feature = sc.read_h5ad(args.data_path)
         idx = gexpr_feature.obs_names.tolist()
-        col = gexpr_feature.var.gene_name.tolist()
+        try:
+            col = gexpr_feature.var.gene_name.tolist()
+        except:
+            col = gexpr_feature.var_names.tolist()
         if issparse(gexpr_feature.X):
             gexpr_feature = gexpr_feature.X.toarray()
         else:
