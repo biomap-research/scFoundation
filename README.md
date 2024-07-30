@@ -63,8 +63,15 @@ We provide the code for downloading and processing the data used for pre-trainin
 | SCAD                        | single cell level drug sensitivity prediction                                                | SCAD folder          | GitHub (embeddings): SCAD/data/split_norm Figshare (raw exp. Data): data_SCAD_split_norm.zip                                             |
 
 ## Copyright Notice
+### Code License
 
 This source code repository is licensed under the Apache-2.0 License; provided, however, that notwithstanding the foregoing, any use or exploitation of any Model Weights is subject to the Model License.
+
+### Third-party Software License
+
+Use of the third-party software, libraries or code referred to in the Acknowledgements section may be governed by separate terms and conditions or license provisions.
+
+Your use of the third-party software, libraries or code is subject to any such terms and you should check that you can comply with any applicable restrictions or terms and conditions before use.
 
 ## Reference
 
