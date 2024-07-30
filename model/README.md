@@ -102,19 +102,6 @@ for na, param in self.encoder.transformer_encoder[-2].named_parameters():
 ```
 Once you've defined the finetuned-model class based on scFoundation, it can be incorporated into your existing training loop code. We have updated the GEARS directory, demonstrating how the scFoundation model can be seamlessly integrated and finetuned with the GEARS model.
 
-
-## Copyright Notice
-
-### Model Weight
-
-Model Weights are licensed under CC BY-NC-SA 4.0 License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-### Third-party Software License
-
-Use of the third-party software, libraries or code referred to in the Acknowledgements section may be governed by separate terms and conditions or license provisions.
-
-Your use of the third-party software, libraries or code is subject to any such terms and you should check that you can comply with any applicable restrictions or terms and conditions before use.
-
 ## Acknowledgements
 
 scFoundation inference code uses and/or references the following separate libraries and packages (ordered alphabetically):
