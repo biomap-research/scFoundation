@@ -85,7 +85,7 @@ def main():
         if issparse(gexpr_feature.X):
             gexpr_feature = gexpr_feature.X.toarray()
         else:
-            gexpr_feature = gexpr_feature
+            gexpr_feature = gexpr_feature.X
         gexpr_feature = pd.DataFrame(gexpr_feature,index=idx,columns=col)
     elif args.data_path[-3:]=='npy':
         gexpr_feature = np.load(args.data_path)
