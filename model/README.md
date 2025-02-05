@@ -32,7 +32,7 @@ local_attention
 - Save your data `X_df` in either `npy` or `csv` format.
 
 #### 2. Inference:
-- Please download the model weight file via https://hopebio2020-my.sharepoint.com/:f:/g/personal/dongsheng_biomap_com/Eh22AX78_AVDv6k6v4TZDikBrJU7F3VBW_sYAFZy3c6sOA?e=deE1Gm and put it into the  `models` folder
+- Please download the model weight file via https://hopebio2020.sharepoint.com/:f:/s/PublicSharedfiles/EmUQnvZMETlDvoCaBduCNeIBQArcOrd8T8iEpiGofFZ9CQ?e=3SpPZU and put it into the  `models` folder
 - Please download the raw gene expression example data used for inference from Figshare: https://doi.org/10.6084/m9.figshare.24049200 , and then unzip it as a folder named `examples`
 - In the `demo.sh` file, we provide several scripts to infer various types of embeddings, including single cell, bulk, and gene embeddings. To run these scripts, simply copy the corresponding Python command and paste it into your command line or terminal.
 - Here's an example command for inferring cell embeddings:
